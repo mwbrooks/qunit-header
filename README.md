@@ -3,13 +3,13 @@ QUnit Results Header
 
 Duplicates the _Tests Completed_ summary at the top of your QUnit test suite.
 
-<img src="screenshot.png" />
+<img src="https://github.com/mwbrooks/qunit-header/raw/master/screenshot.png" />
 
 Install
 -------
 
-1. Copy `qunit/qunit.header.js`
-2. Copy `qunit/qunit.header.css`
+1. Copy `lib/qunit.header.js`
+2. Copy `lib/qunit.header.css`
 3. Add the following code to your markup:
 
         <!-- After qunit.css -->
